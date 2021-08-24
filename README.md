@@ -1,2 +1,2 @@
 # theselftaughtprogrammer_althoff
-My scripts from following the Cory Althoff programming book
+My scripts from following the Cory Althoff programming book "The selftaught Programmer"
